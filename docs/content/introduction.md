@@ -1,16 +1,16 @@
 # Introduction to Adventure Racing
 
-## What is Adventure Racing?
+![Adventure racing](media/ar-intro.png)
 
 Adventure racing is a thrilling multidisciplinary endurance sport that combines outdoor navigation with physical challenges across varied terrain. Teams (or sometimes individuals) race through unmarked wilderness courses, using only a map and compass to find designated checkpoints. It's part outdoor race, part scavenger hunt, and part team survival challenge—blending fitness, strategy, navigation skills, and adaptability.
 
 Unlike traditional running or biking races where you follow a marked route, adventure racing requires you to plan your own path. Teams make strategic decisions about which checkpoints to visit and how to connect them, navigating through forests, across rivers, and over mountains while managing limited time and energy.
 
-## Race Disciplines
+
+## Core Race Disciplines
 
 Adventure races typically combine three core disciplines, though some events add additional challenges:
 
-### Core Disciplines
 - **Trekking/Trail Running**: On-trail and off-trail foot navigation, including bushwhacking through unmarked terrain and managing elevation changes
 - **Mountain Biking**: Riding on dirt roads, gravel paths, and technical singletrack trails
 - **Paddling**: Using canoes, kayaks, or packrafts on lakes, rivers, and sometimes open water
@@ -75,38 +75,6 @@ Unlike marked trails, you decide how to travel between checkpoints. This require
 - Making strategic decisions about the fastest or safest route
 - Constant communication with teammates
 
-### Transition Areas (TAs)
-TAs are designated locations where teams:
-- Switch between disciplines (e.g., from biking to paddling)
-- Access their gear bins
-- Refuel and hydrate
-- Plot the next leg on their map
-- Strategize as a team
-
-## Mandatory Gear and Rules
-
-### Common Mandatory Gear
-Each race provides a specific gear list, but typical requirements include:
-
-**Safety Equipment**:
-- Compass (not just phone GPS)
-- Whistle for emergencies
-- Emergency blanket or bivy
-- First aid kit
-- Headlamp with spare batteries (for any race that might go past dusk)
-- Waterproof jacket
-- Knife or multi-tool
-
-**Discipline-Specific**:
-- Bike repair kit (tubes, pump, multi-tool)
-- PFD (personal flotation device) for paddling
-- Paddles (sometimes provided by race)
-
-**Other Common Requirements**:
-- GPS tracker (for safety monitoring by race staff, not for navigation)
-- Cell phone (for emergencies only)
-- Printed or waterproof map case
-
 ### Important Rules
 
 **Stay Together**: All team members must complete the course together, typically remaining within sight or a specified distance (often 100 meters) of each other at all times. This is not a relay—the entire team finishes together.
@@ -118,41 +86,6 @@ Each race provides a specific gear list, but typical requirements include:
 **Gear Checks**: Race directors conduct gear checks before the race. Missing mandatory items can result in penalties, time additions, or disqualification.
 
 **No Outside Navigation Aids**: GPS navigation devices are typically prohibited (except race-provided safety trackers). You must navigate using map and compass.
-
-## Team Dynamics and Self-Sufficiency
-
-### Team Size
-- Most US races use teams of 2-4 people
-- Championship-level races often require mixed-gender teams of 4
-- Some events offer solo categories
-
-### Working Together
-Strong teams excel because they:
-- **Divide responsibilities**: Navigation, pacing, food management, equipment repair, morale
-- **Support each other**: Faster members help carry gear for slower teammates; everyone watches for signs of fatigue or problems
-- **Communicate clearly**: Make decisions together about route choices, pace, and when to push or rest
-- **Stay positive**: Encourage each other through difficult moments
-- **Leverage individual strengths**: Rotate navigation duties, let the strongest biker lead on bike sections, etc.
-
-### Self-Sufficiency
-Adventure racing teaches valuable wilderness skills:
-- Problem-solving under pressure
-- Managing nutrition and hydration for extended periods
-- Handling equipment failures in remote locations
-- Making navigation corrections when lost
-- Adapting to changing weather and terrain conditions
-
-## Getting Started
-
-If you're new to adventure racing:
-
-1. **Start with a sprint race** (2-4 hours) to learn the basics in a supportive environment
-2. **Build core skills**: Learn basic map and compass navigation, get comfortable on a mountain bike, and practice paddling
-3. **Gather the right gear**: Review the mandatory gear list and test everything before race day
-4. **Find teammates**: Recruit friends who are supportive, adventurous, and willing to learn together
-5. **Focus on the experience**: Your first race is about learning and having fun, not winning
-
-For more information on races in your area, check out the [United States Adventure Racing Association (USARA)](https://www.usara.com), which maintains a comprehensive race calendar and beginner resources.
 
 ## What Makes Adventure Racing Special
 
