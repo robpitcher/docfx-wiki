@@ -6,6 +6,29 @@ Adventure racing is fundamentally a team sport. Unlike solo endurance events whe
 
 Strong team dynamics transform a group of individuals into an efficient,adaptable unit capable of handling navigation challenges, equipment failures, exhaustion, and environmental stress. This guide covers communication strategies, decision-making, pacing, conflict management, and leadership—the skills that separate successful teams from those who struggle.
 
+## Team Size and Composition
+
+### Team Size
+- Most US races use teams of 2-4 people
+- Championship-level races often require mixed-gender teams of 4
+- Some events offer solo categories
+
+### Working Together
+Strong teams excel because they:
+- **Divide responsibilities**: Navigation, pacing, food management, equipment repair, morale
+- **Support each other**: Faster members help carry gear for slower teammates; everyone watches for signs of fatigue or problems
+- **Communicate clearly**: Make decisions together about route choices, pace, and when to push or rest
+- **Stay positive**: Encourage each other through difficult moments
+- **Leverage individual strengths**: Rotate navigation duties, let the strongest biker lead on bike sections, etc.
+
+### Self-Sufficiency
+Adventure racing teaches valuable wilderness skills:
+- Problem-solving under pressure
+- Managing nutrition and hydration for extended periods
+- Handling equipment failures in remote locations
+- Making navigation corrections when lost
+- Adapting to changing weather and terrain conditions
+
 ## The Fundamental Rule: The Team Moves Together
 
 ### Why It Matters

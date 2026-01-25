@@ -118,32 +118,6 @@ Each race provides a specific gear list, but typical requirements include:
 
 **No Outside Navigation Aids**: GPS navigation devices are typically prohibited (except race-provided safety trackers). You must navigate using map and compass.
 
-<!-- TODO: Beginning of section to move to team-dynamics.md -->
-## Team Dynamics and Self-Sufficiency
-
-### Team Size
-- Most US races use teams of 2-4 people
-- Championship-level races often require mixed-gender teams of 4
-- Some events offer solo categories
-
-### Working Together
-Strong teams excel because they:
-- **Divide responsibilities**: Navigation, pacing, food management, equipment repair, morale
-- **Support each other**: Faster members help carry gear for slower teammates; everyone watches for signs of fatigue or problems
-- **Communicate clearly**: Make decisions together about route choices, pace, and when to push or rest
-- **Stay positive**: Encourage each other through difficult moments
-- **Leverage individual strengths**: Rotate navigation duties, let the strongest biker lead on bike sections, etc.
-
-### Self-Sufficiency
-Adventure racing teaches valuable wilderness skills:
-- Problem-solving under pressure
-- Managing nutrition and hydration for extended periods
-- Handling equipment failures in remote locations
-- Making navigation corrections when lost
-- Adapting to changing weather and terrain conditions
-
-<!-- TODO: End of section to move to team-dynamics.md -->
-
 ## Getting Started
 
 If you're new to adventure racing:
