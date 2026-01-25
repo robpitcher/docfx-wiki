@@ -1,16 +1,15 @@
 # Introduction to Adventure Racing
 
-## What is Adventure Racing?
 
 Adventure racing is a thrilling multidisciplinary endurance sport that combines outdoor navigation with physical challenges across varied terrain. Teams (or sometimes individuals) race through unmarked wilderness courses, using only a map and compass to find designated checkpoints. It's part outdoor race, part scavenger hunt, and part team survival challenge—blending fitness, strategy, navigation skills, and adaptability.
 
 Unlike traditional running or biking races where you follow a marked route, adventure racing requires you to plan your own path. Teams make strategic decisions about which checkpoints to visit and how to connect them, navigating through forests, across rivers, and over mountains while managing limited time and energy.
 
-## Race Disciplines
+
+## Core Race Disciplines
 
 Adventure races typically combine three core disciplines, though some events add additional challenges:
 
-### Core Disciplines
 - **Trekking/Trail Running**: On-trail and off-trail foot navigation, including bushwhacking through unmarked terrain and managing elevation changes
 - **Mountain Biking**: Riding on dirt roads, gravel paths, and technical singletrack trails
 - **Paddling**: Using canoes, kayaks, or packrafts on lakes, rivers, and sometimes open water
