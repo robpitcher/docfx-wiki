@@ -1,0 +1,2 @@
+<!-- TODO
+Write a practical guide to nutrition and hydration for adventure racing. Cover fueling before, during, and after races, including calorie needs, electrolyte management, real food vs gels, and what works in long 12–24 hour races. Include advice on stomach management, bonking prevention, and simple race-day nutrition strategies. -->

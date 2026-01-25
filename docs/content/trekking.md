@@ -1,0 +1,2 @@
+<!-- TODO
+Write a guide to trekking (on-foot travel) in adventure racing. Explain what trekking sections involve, including trail running, bushwhacking, off-trail navigation, and elevation challenges. Cover footwear choices, foot care, pacing strategy, nutrition and hydration considerations, and how to move efficiently as a team. Include advice for night trekking and rough terrain. -->

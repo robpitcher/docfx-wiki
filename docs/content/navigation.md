@@ -1,0 +1,2 @@
+<!-- TODO
+Write an in-depth beginner-to-intermediate guide to navigation in adventure racing. Explain maps, UTM coordinates, checkpoints, and how orienteering-style navigation works in races. Include sections on using a compass, route choice strategy, handrails and attack points, relocation techniques if lost, and how teams should make navigation decisions together. Emphasize practical race-oriented navigation rather than theory-only. -->

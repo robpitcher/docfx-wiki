@@ -1,0 +1,2 @@
+<!-- TODO
+Write a guide to team dynamics in adventure racing. Cover communication, decision-making, pacing the slowest member, managing stress and conflict, and keeping the team moving efficiently over long races. Include advice on leadership, morale, and how strong teams avoid small problems turning into race-ending failures. -->

@@ -1,0 +1,2 @@
+<!-- TODO
+Write a guide to the mountain biking portion of adventure racing. Explain how biking sections typically work in races, what kinds of terrain are common, and how biking in adventure racing differs from normal mountain biking. Include sections on bike setup, tire choice, repair kit essentials, pacing strategy, team riding dynamics, and common mechanical issues during races. -->

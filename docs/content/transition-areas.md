@@ -1,0 +1,2 @@
+<!-- TODO
+Write a guide to transition areas (TAs) in adventure racing. Explain what TAs are, how they work, and how teams should plan and organize gear for fast, efficient transitions. Include tips on packing bins, minimizing wasted time, role assignment within the team, and common transition mistakes. -->

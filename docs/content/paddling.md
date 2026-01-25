@@ -1,0 +1,2 @@
+<!-- TODO
+Write a guide to paddling sections in adventure racing. Explain the types of boats commonly used (canoes, kayaks, packrafts), what race paddling sections typically involve, and how they differ from recreational paddling. Include sections on gear, safety, paddle technique basics, portaging, team coordination in boats, and common mistakes or risks. -->

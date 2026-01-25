@@ -1,0 +1,2 @@
+<!-- TODO
+Write a practical guide to adventure racing gear. Cover mandatory gear versus optional but recommended gear, and organize it by categories such as navigation, safety, clothing, bike gear, paddling gear, and emergency equipment. Explain why each category matters, what race directors typically require, and common mistakes beginners make with gear choices. Include guidance on weight, durability, and multi-use gear. -->
