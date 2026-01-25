@@ -2,3 +2,23 @@
   href: introduction.md
 - name: Getting Started
   href: getting-started.md
+- name: Core Skills
+  items:
+    - name: Navigation
+      href: navigation.md
+    - name: Trekking
+      href: trekking.md
+    - name: Mountain Biking
+      href: biking.md
+    - name: Paddling
+      href: paddling.md
+- name: Race Preparation
+  items:
+    - name: Gear
+      href: gear.md
+    - name: Nutrition & Hydration
+      href: nutrition.md
+    - name: Team Dynamics
+      href: team-dynamics.md
+    - name: Transition Areas
+      href: transition-areas.md
