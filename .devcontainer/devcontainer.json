@@ -13,7 +13,8 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "ms-dotnettools.csharp",
-        "ms-dotnettools.vscode-dotnet-runtime"
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-azuretools.vscode-azure-mcp-server"
       ]
     }
   },
