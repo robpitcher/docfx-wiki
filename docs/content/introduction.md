@@ -118,6 +118,7 @@ Each race provides a specific gear list, but typical requirements include:
 
 **No Outside Navigation Aids**: GPS navigation devices are typically prohibited (except race-provided safety trackers). You must navigate using map and compass.
 
+<!-- TODO: Beginning of section to move to team-dynamics.md -->
 ## Team Dynamics and Self-Sufficiency
 
 ### Team Size
@@ -140,6 +141,8 @@ Adventure racing teaches valuable wilderness skills:
 - Handling equipment failures in remote locations
 - Making navigation corrections when lost
 - Adapting to changing weather and terrain conditions
+
+<!-- TODO: End of section to move to team-dynamics.md -->
 
 ## Getting Started
 
