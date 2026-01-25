@@ -16,6 +16,11 @@
         "files": [
           "images/**"
         ]
+      },
+      {
+        "files": [
+          "content/media/**"
+        ]
       }
     ],
     "output": "_site",
