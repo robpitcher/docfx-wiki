@@ -2,10 +2,14 @@
 _layout: landing
 ---
 
-# This is the **HOMEPAGE**.
-
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
-
-## Quick Start Notes:
-
-1. Add images to the *images* folder if the file is referencing an image.
+# Contents
+- [Introduction](content/introduction.md)
+- [Getting Started](content/getting-started.md)
+- [Biking](content/biking.md)
+- [Gear](content/gear.md)
+- [Navigation](content/navigation.md)
+- [Nutrition](content/nutrition.md)
+- [Paddling](content/paddling.md)
+- [Team Dynamics](content/team-dynamics.md)
+- [Transition Areas](content/transition-areas.md)
+- [Trekking](content/trekking.md)
