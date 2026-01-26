@@ -58,3 +58,7 @@ _site/
 # Azure Static Web Apps
 .azure/
 swa-cli.config.json
+
+# Bicep build artifacts
+infra/*.json
+!infra/bicep.parameters.json
