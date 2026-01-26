@@ -4,560 +4,154 @@
 
 ## Introduction
 
-Proper nutrition and hydration can make the difference between finishing strong and bonking halfway through your race. Unlike short races where you can rely on pre-race fueling alone, adventure racing requires continuous, strategic eating and drinking throughout the event.
-
-This guide covers everything from pre-race preparation to in-race fueling strategies, hydration management, and recovery nutrition. Whether you're tackling your first sprint race or preparing for a 24-hour event, understanding how to fuel your body will dramatically improve your performance and enjoyment.
+Proper nutrition and hydration can make the difference between finishing strong and bonking halfway through your race. Adventure racing requires continuous, strategic eating and drinking throughout the event. This guide covers pre-race preparation, in-race fueling, hydration management, and recovery nutrition.
 
 <br/>
 
-## Why Nutrition Matters in Adventure Racing
+## Why Nutrition Matters
 
-### The Energy Challenge
-- **High calorie burn**: Expect to burn 365-750 calories per hour during racing
-- **12-24 hour races**: Total expenditure of 8,000-18,000+ calories
-- **Impossible to replace fully**: You can't eat as much as you burn, but consistent fueling prevents bonking
-- **Multi-hour activity**: Energy systems differ from short, intense efforts
-
-### Consequences of Poor Nutrition
-- **Bonking (hitting the wall)**: Complete energy depletion; unable to continue
-- **Mental fog**: Poor decision-making and navigation errors
-- **Muscle cramping**: Often linked to electrolyte imbalance
-- **GI distress**: Nausea, vomiting, or stomach shutdown
-- **Immune suppression**: Increased illness risk after races
-
-### The Goal
-Maintain consistent energy levels, stay hydrated, avoid stomach issues, and finish strong—not just survive.
+Expect to burn 365-750 calories per hour, totaling 8,000-18,000+ calories in 12-24 hour races. While you can't replace all calories burned, consistent fueling prevents bonking, mental fog, cramping, and GI distress. The goal: maintain energy, stay hydrated, and finish strong.
 
 <br/>
 
-## Pre-Race Nutrition (Days Before)
+## Pre-Race Nutrition
 
-### Carbohydrate Loading (48-72 Hours Before)
+### 48-72 Hours Before
+**Carbohydrate Loading**: Increase carbs to 7-10g per kg body weight. Focus on rice, pasta, bread, potatoes, oatmeal, and fruits. Avoid excessive fiber, unusual foods, and alcohol. Taper training to store glycogen.
 
-**Purpose**: Fill glycogen stores in muscles and liver for sustained energy
+**Hydration**: Drink water consistently and add electrolytes if racing in heat. Monitor urine color (light yellow = good hydration).
 
-**What to Do**:
-- Increase carbohydrate intake to 7-10 grams per kg of body weight
-- Reduce training volume (taper) so body stores, not burns, glycogen
-- Maintain protein and healthy fats at normal levels
+<br/>### Race Morning (2-3 Hours Before)
 
-**Good Carb Sources**:
-- Rice, pasta, bread, potatoes
-- Oatmeal, quinoa, couscous
-- Fruits (bananas, apples, berries)
-- Energy bars, bagels
-
-**What to Avoid**:
-- Excessive fiber (can cause GI issues)
-- Unusual or spicy foods
-- Large amounts of fat (slows digestion)
-- Alcohol (dehydrates and disrupts sleep)
-
-### Hydration in Days Before Race
-
-**Start Hydrated**:
-- Drink water consistently (not just the day before)
-- Add electrolytes if you're a heavy sweater or racing in heat
-- Monitor urine color: light yellow = good hydration
-
-**Electrolyte Loading**:
-- Sodium helps retain fluids
-- Use electrolyte drinks, tablets, or add salt to meals
-- Especially important in hot/humid conditions
-
-<br/>
-
-## Race Morning Nutrition
-
-### Pre-Race Meal (2-3 Hours Before Start)
-
-**Goals**:
-- Top off glycogen stores
-- Easy to digest
-- Familiar foods only (no experiments!)
-
-**Ideal Pre-Race Breakfast**:
-- 60-90g carbohydrates
-- 10-20g protein
-- Low fiber, low fat
-
-**Examples**:
-- Oatmeal with banana and honey
-- Bagel with peanut butter and jam
-- Toast with nut butter and fruit
-- Energy bars + banana
-- Rice cakes with honey
-
-**Timing**:
-- Eat 2-3 hours before race start
-- Allows digestion and bathroom breaks
-- Avoid eating too close to start (stomach discomfort)
-
-### Final Hour Before Start
-
-**30-60 Minutes Before**:
-- Small, easily digestible carbs if needed
-- Gel, chews, or sports drink
-- Sip water or electrolyte drink
-
-**Avoid**:
-- Large meals or solid foods
-- Dairy products (for those sensitive)
-- Anything new or untested
+Eat 60-90g carbs and 10-20g protein—low fiber, low fat. Examples: oatmeal with banana, bagel with peanut butter, toast with fruit. **Only familiar foods!** In the final hour, take small, easily digestible carbs if needed (gel, chews, sports drink).
 
 <br/>
 
 ## Fueling During the Race
 
-### How Much to Eat
+### How Much and When
+- **Sprints (2-4 hours)**: 30-40g carbs/hour
+- **12-hour races**: 40-60g carbs/hour  
+- **24+ hour races**: 50-70g carbs/hour
 
-**Target Intake**:
-- **Sprints (2-4 hours)**: 30-40g carbs per hour
-- **12-hour races**: 40-60g carbs per hour
-- **24+ hour races**: 50-70g carbs per hour (varies by intensity and individual tolerance)
+**Eat every 20-30 minutes**—small, frequent intake beats large, infrequent meals. Don't wait until hungry; you're already behind.
 
-**Calorie Equivalents**:
-- 30-60g carbs = approximately 120-240 calories per hour
-- You won't replace all calories burned—that's normal and expected
+### What to Eat
 
-**Frequency**:
-- Eat something every 20-30 minutes
-- Small, frequent intake beats large, infrequent meals
-- Don't wait until you're hungry—hunger means you're already behind
+**Sport Nutrition** (gels, chews, bars, drinks): Convenient, quick energy, precise carbs. Can cause flavor fatigue.
 
-### What to Eat: Real Food vs. Sport Nutrition
+**Real Food** (sandwiches, potatoes, rice balls, pretzels, fruit, jerky): More satisfying, easier on stomach for some. Heavier to carry.
 
-**Sport Nutrition (Gels, Chews, Bars, Sports Drinks)**
-
-**Pros**:
-- Convenient and portable
-- Quick energy absorption
-- Precise carb content
-- Easy to consume while moving
-- Long shelf life
-
-**Cons**:
-- Flavor fatigue in long races
-- Can cause GI distress if overused
-- Expensive
-- Sweet taste becomes unappealing
-
-**Popular Options**:
-- Energy gels (20-25g carbs each): GU, Clif Shot, Honey Stinger
-- Energy chews: Clif Bloks, GU Chews, Sport Beans
-- Energy bars: Clif Bar, RX Bar, KIND bars
-- Sports drinks: Tailwind, Gatorade, Scratch Labs
-
-**Real Food**
-
-**Pros**:
-- More satisfying and flavorful
-- Provides variety in long races
-- Easier on stomach for some people
-- Often less expensive
-- Psychologically comforting
-
-**Cons**:
-- Heavier to carry
-- Can spoil in heat
-- Harder to eat while moving
-- Variable carb content
-
-**Popular Options**:
-- Sandwiches (PB&J, turkey, honey)
-- Boiled potatoes with salt
-- Rice balls or sushi
-- Pretzels, crackers, chips
-- Bananas, dates, dried fruit
-- Jerky (protein + salt)
-- Baby food pouches (easy to eat)
-- Candy (gummy bears, Sour Patch Kids)
-
-### The Best Strategy: Mix Both
-
-**Why Mix?**
-- Variety prevents flavor fatigue
-- Real food helps stomach settle
-- Sport nutrition provides quick energy
-- Psychological boost from "real" food
-
-**Example Fueling Plan (12-hour race)**:
-- **Hours 1-3**: Energy chews + sports drink
-- **Hours 4-6**: PB&J sandwich + water + electrolyte tabs
-- **Hours 7-9**: Gels + salty snacks + sports drink
-- **Hours 10-12**: Potatoes with salt + energy chews + water
+**Best Strategy: Mix both** for variety and psychology. Example 12-hour plan:
+- Hours 1-3: Chews + sports drink
+- Hours 4-6: PB&J + water + bars
+- Hours 7-9: Gels + salty snacks
+- Hours 10-12: Potatoes + chews + caffeine gel
 
 ### Transition Area Meals
 
-**Use TAs for Substantial Eating**:
-- Sit-down meals when changing disciplines
-- Warm foods if available (soup, noodles, hot dogs)
-- Refuel gear and body simultaneously
-- Don't linger too long—10-15 minutes max for eating
-
-**Good TA Foods**:
-- Noodles or ramen (warm, salty, easy to digest)
-- Soup (hydration + calories + warmth)
-- Sandwiches or wraps
-- Pizza slices
-- Bananas and other fruits
-- Energy bars
-
-For more on efficient transitions, see our [Transition Areas Guide](/content/transition-areas.md).
+Use TAs for substantial eating (soup, noodles, sandwiches, warm foods). Refuel in 10-15 minutes max. See [Transition Areas Guide](/content/transition-areas.md).
 
 <br/>
 
 ## Hydration Strategy
 
 ### How Much to Drink
+0.4-0.7 liters (14-24 oz) per hour, adjusted for sweat rate, weather, intensity, and body size. **Don't overhydrate**—too much causes hyponatremia (dangerously low sodium). Monitor urine color (light yellow is ideal).
 
-**General Guidelines**:
-- 0.4-0.7 liters (14-24 oz) per hour
-- Adjust based on:
-  - Sweat rate (heavy sweaters need more)
-  - Weather (hot/humid = more, cold = less)
-  - Exercise intensity
-  - Body size
+### Water vs. Electrolytes
+Alternate between plain water and electrolyte drinks (50/50 mix works well). Use electrolyte tablets for flexibility.
 
-**Don't Overhydrate**:
-- Drinking too much can cause hyponatremia (dangerously low sodium)
-- Listen to thirst cues
-- Monitor urine color (light yellow is ideal)
+**Electrolyte Needs**: You lose 500-2,000mg sodium per liter of sweat. Target 500-1,000mg sodium per hour via sports drinks, tablets, salty foods, or salt capsules.
 
-### Water vs. Electrolyte Drinks
-
-**Plain Water**:
-- Good for shorter sections
-- Rinses mouth and stomach
-- Pair with salty foods
-
-**Electrolyte/Sports Drinks**:
-- Essential for longer sections (2+ hours)
-- Replaces sodium lost in sweat
-- Helps retain fluids
-- Provides carbohydrates for energy
-
-**Best Practice**:
-- Alternate between water and electrolyte drinks
-- 50/50 mix often works well
-- Use electrolyte tablets in water bottles for flexibility
-
-### Electrolyte Needs
-
-**Why Electrolytes Matter**:
-- Sodium is lost in sweat (500-2,000mg per liter)
-- Critical for nerve function, muscle contraction, hydration
-- Deficiency causes cramping, confusion, nausea
-
-**Sources**:
-- Sports drinks (Gatorade, Tailwind, Skratch)
-- Electrolyte tablets (Nuun, SaltStick)
-- Salty foods (pretzels, chips, pickles, soup)
-- Salt capsules (for heavy sweaters)
-
-**Recommended Intake**:
-- 500-1,000mg sodium per hour during exercise
-- Adjust based on sweat rate and weather
-
-### Signs of Dehydration
-
-**Mild**:
-- Thirst
-- Dry mouth
-- Dark urine
-
-**Moderate**:
-- Headache
-- Dizziness
-- Reduced performance
-- Cramping
-
-**Severe**:
-- Confusion
-- Rapid heart rate
-- Inability to sweat
-- **Medical emergency**: Stop racing, seek help
-
-**Prevention**: Drink consistently, don't wait for extreme thirst
+### Dehydration Warning Signs
+- **Mild**: Thirst, dry mouth, dark urine
+- **Moderate**: Headache, dizziness, reduced performance, cramping  
+- **Severe**: Confusion, rapid heart rate, inability to sweat—**medical emergency, stop racing**
 
 <br/>
 
 ## Managing Stomach Issues
 
-### Common GI Problems
+**Common Problems**:
+- **Nausea**: Slow pace, sip electrolytes, eat bland foods
+- **Bloating**: Stick to simple carbs, eat smaller amounts more frequently
+- **Vomiting**: Stop eating, sip electrolytes, slow pace dramatically
 
-**Nausea**:
-- Caused by: over-fueling, dehydration, heat, high intensity
-- Solution: Slow pace, sip water/electrolytes, eat bland foods
+**Prevention**:
+- Train your gut during practice
+- Only eat tested foods on race day
+- Avoid high-fiber, high-fat foods during intense sections
+- Stay hydrated—dehydration worsens GI issues
 
-**Bloating/Cramping**:
-- Caused by: too much fiber, fat, or protein; eating too fast
-- Solution: Stick to simple carbs, eat smaller amounts more frequently
-
-**Vomiting**:
-- Caused by: severe over-fueling, dehydration, heat stress
-- Solution: Stop eating, sip electrolytes, slow pace dramatically
-
-### Preventing Stomach Problems
-
-**Train Your Gut**:
-- Practice race nutrition during training
-- Build tolerance gradually
-- Identify foods that work for you
-
-**Race Day Tips**:
-- Stick to familiar, tested foods only
-- Avoid high-fiber, high-fat, high-protein foods during intense sections
-- Eat slower at transitions
-- Stay hydrated (dehydration worsens GI issues)
-- Don't eat too much at once
-
-**What to Eat When Stomach is Upset**:
-- Ginger chews (natural anti-nausea)
-- Flat soda (Coke or ginger ale)
-- Salty broth or soup
-- Bland carbs (crackers, pretzels, bread)
-- Small sips of electrolyte drink
+**Upset Stomach Remedies**: Ginger chews, flat soda, salty broth, crackers, small sips of electrolyte drink
 
 <br/>
 
 ## Preventing Bonking
 
-### What is Bonking?
+**Bonking** = complete glycogen depletion. Symptoms: extreme fatigue, mental fog, inability to maintain pace, shaking.
 
-**Bonking** (or "hitting the wall") is complete glycogen depletion—your body runs out of readily available energy.
+**Prevention**:
+1. Start fueling within first hour
+2. Eat every 20-30 minutes consistently
+3. Hit 40-60g carbs/hour minimum
+4. Don't skip meals even when not hungry
 
-**Symptoms**:
-- Extreme fatigue and weakness
-- Mental fog and confusion
-- Inability to maintain pace
-- Feeling of despair or defeat
-- Shaking or dizziness
-
-**Cause**: Inadequate carbohydrate intake over multiple hours
-
-### How to Prevent Bonking
-
-1. **Start fueling early**: Don't wait until hour 3 to eat
-2. **Eat consistently**: Every 20-30 minutes without fail
-3. **Hit carb targets**: 40-60g per hour minimum
-4. **Don't skip meals**: Even when not hungry, eat something
-5. **Monitor energy levels**: If you feel fatigue coming, increase intake immediately
-
-### Recovering from a Bonk
-
-If you bonk despite your best efforts:
-1. **Stop or slow dramatically**
-2. **Eat quick carbs**: Gels, chews, sports drink
-3. **Rest for 10-15 minutes**: Allow food to digest and absorb
-4. **Resume at slower pace**: It takes 20-30 minutes to feel better
-5. **Continue eating regularly**: Once recovered, don't repeat the mistake
+**Recovery**: Stop or slow down, eat quick carbs (gels, chews), rest 10-15 minutes, resume at slower pace. Takes 20-30 minutes to recover.
 
 <br/>
 
 ## Caffeine Strategy
 
-### Benefits of Caffeine
-- Increases alertness and focus
-- Reduces perceived effort
-- May improve endurance performance
-- Helps during night sections
+**Benefits**: Increases alertness, reduces perceived effort, helps during night sections.
 
-### How to Use Caffeine
+**Dosage**: 3-6mg per kg body weight (200-400mg for 70kg person). Sources: caffeinated gels (25-50mg), coffee (80-100mg), energy drinks, caffeine pills.
 
-**Dosage**:
-- 3-6mg per kg body weight
-- For 70kg person: 200-400mg total
+**Timing**: Takes 30-60 minutes to peak, lasts 3-5 hours. Use strategically for early morning, night sections, or final push.
 
-**Timing**:
-- Takes 30-60 minutes to peak
-- Lasts 3-5 hours
-- Use strategically (early morning, night sections, final push)
-
-**Sources**:
-- Caffeinated gels (25-50mg each)
-- Coffee (80-100mg per 8oz)
-- Energy drinks (80-160mg)
-- Caffeine pills (100-200mg)
-
-**Cautions**:
-- Can cause stomach upset in some people
-- Tolerance varies—test in training
-- Don't overdo it (jitters, anxiety, GI issues)
-- May disrupt sleep if planning to sleep mid-race
+**Cautions**: Can cause stomach upset. Test in training. Don't overdo it (jitters, anxiety). May disrupt mid-race sleep.
 
 <br/>
 
 ## Team Nutrition Coordination
 
-### Sync Your Fueling
+**Sync fueling** to prevent one teammate from bonking. Agree on eating schedule ("every 30 minutes"), rotate who reminds team, check in regularly ("When did you last eat?").
 
-**Why Coordinate?**
-- Prevents one teammate from bonking while others feel good
-- Stops create natural eating opportunities
-- Team morale stays high when everyone is fed
+**Designate roles**: Food manager tracks timing, water manager monitors hydration. Share supplies and help struggling teammates.
 
-**How to Coordinate**:
-- Agree on eating schedule ("every 30 minutes")
-- Rotate who reminds team to eat/drink
-- Share food to ensure everyone has options
-- Check in: "When did you last eat?"
-
-### Sharing Responsibilities
-
-**Designate Roles**:
-- Food manager: tracks timing, reminds team to eat
-- Water manager: monitors hydration, refills bottles
-- Rotate roles to prevent burnout
-
-**Share Supplies**:
-- Pool gear and food at transitions
-- Help teammates who are struggling to eat
-- Offer variety when someone can't stomach their own food
-
-For more on teamwork, see our [Team Dynamics Guide](/content/team-dynamics.md).
+See [Team Dynamics Guide](/content/team-dynamics.md).
 
 <br/>
 
-## Post-Race Nutrition and Recovery
+## Post-Race Recovery
 
-### Immediate Post-Race (0-60 Minutes)
+### Immediate (0-60 Minutes)
+Consume 60-90g carbs, 15-25g protein, and 500-750ml fluids with electrolytes. Easy options: chocolate milk, recovery shake, bagel with peanut butter, banana + protein bar.
 
-**Goals**:
-- Replenish glycogen
-- Begin muscle repair
-- Rehydrate
-
-**What to Eat/Drink**:
-- 60-90g carbohydrates
-- 15-25g protein
-- 500-750ml fluids with electrolytes
-
-**Easy Options**:
-- Chocolate milk
-- Recovery shake
-- Bagel with peanut butter
-- Banana + protein bar
-- Pasta or rice bowl
-
-### Recovery Meal (1-3 Hours Post-Race)
-
-**Full Balanced Meal**:
-- Carbohydrates (rice, pasta, bread, potatoes)
-- Protein (chicken, fish, eggs, beans, tofu)
-- Healthy fats (avocado, nuts, olive oil)
-- Vegetables (vitamins and minerals)
-
-**Continue Hydrating**:
-- Water and electrolyte drinks
-- Monitor urine color
-- May take 24-48 hours to fully rehydrate
+### 1-3 Hours Post-Race
+Full balanced meal with carbs (rice, pasta), protein (chicken, fish, eggs), healthy fats, and vegetables. Continue hydrating—may take 24-48 hours to fully rehydrate.
 
 ### Next 24-48 Hours
-
-**Continue Recovery Nutrition**:
-- Regular, balanced meals
-- Extra carbs to replenish glycogen
-- Adequate protein for muscle repair
-- Anti-inflammatory foods (berries, greens, fatty fish)
-
-**Don't Restrict**:
-- Your body needs calories to recover
-- Eat when hungry
-- Focus on nutrient-dense foods
-
-<br/>
-
-## Sample Nutrition Plans
-
-### Sprint Race (4 hours)
-
-**Pre-Race (2-3 hours before)**:
-- Oatmeal with banana and honey
-- Water
-
-**During Race**:
-- Hour 1: 2 energy chews + water
-- Hour 2: 1 gel + electrolyte drink
-- Hour 3: 3 energy chews + water
-- Hour 4: 1 gel + electrolyte drink
-
-**Total**: ~160g carbs, ~1.5 liters fluid
-
-### 12-Hour Race
-
-**Pre-Race**:
-- Bagel with peanut butter and banana
-- Coffee
-
-**Hours 1-3** (high intensity):
-- Energy chews + gels
-- Electrolyte drink
-
-**Hours 4-6** (moderate intensity):
-- TA meal: Soup + sandwich
-- Water + electrolyte tabs
-- Energy bars while moving
-
-**Hours 7-9** (fatigue setting in):
-- Salty snacks (pretzels, chips)
-- Gels for quick energy
-- Electrolyte drink
-
-**Hours 10-12** (final push):
-- Mix of gels, chews, real food
-- Caffeine gel if needed
-- Hydration focus
-
-**Total**: ~600g carbs, ~6-8 liters fluid
+Regular balanced meals with extra carbs for glycogen replenishment and adequate protein for muscle repair. Don't restrict calories—your body needs fuel to recover.
 
 <br/>
 
 ## Common Nutrition Mistakes
 
-### Mistake #1: Not Eating Early Enough
-**Problem**: Waiting until hungry means you're already behind
-**Solution**: Start fueling within the first hour, even if not hungry
-
-### Mistake #2: Only Using Gels
-**Problem**: Flavor fatigue, GI distress, psychological burnout
-**Solution**: Mix gels with real food for variety and satisfaction
-
-### Mistake #3: Ignoring Electrolytes
-**Problem**: Cramping, confusion, hyponatremia
-**Solution**: Use electrolyte drinks or tablets, eat salty foods
-
-### Mistake #4: Eating Untested Foods
-**Problem**: GI distress, allergies, unexpected reactions
-**Solution**: Only eat foods you've successfully used in training
-
-### Mistake #5: Not Drinking Enough (or Drinking Too Much)
-**Problem**: Dehydration or hyponatremia
-**Solution**: Follow a hydration plan, monitor urine color, listen to thirst
-
-### Mistake #6: Skipping Meals at Transitions
-**Problem**: Bonking later, missing opportunity for substantial fuel
-**Solution**: Plan for quick but meaningful eating at every TA
-
-### Mistake #7: Forgetting to Practice Nutrition
-**Problem**: Race-day surprises, untested stomach tolerance
-**Solution**: Practice exact race nutrition during training
+1. **Not eating early enough**: Start fueling within first hour, don't wait for hunger
+2. **Only using gels**: Mix gels with real food for variety and satisfaction
+3. **Ignoring electrolytes**: Use electrolyte drinks/tablets and salty foods
+4. **Eating untested foods**: Only eat foods successfully used in training
+5. **Wrong hydration**: Follow a plan, monitor urine color, listen to thirst
+6. **Skipping TA meals**: Plan for quick but meaningful eating at every transition
+7. **Not practicing**: Practice exact race nutrition during training
 
 <br/>
 
 ## Summary
 
-Nutrition and hydration are trainable skills that dramatically impact your adventure racing performance. By starting with proper pre-race fueling, eating and drinking consistently throughout the race, mixing sport nutrition with real food, and managing electrolytes, you'll maintain energy levels and finish strong.
-
-**Key Takeaways**:
-- **Eat early and often**: Every 20-30 minutes, 40-60g carbs/hour
-- **Mix food types**: Sport nutrition + real food for variety
-- **Hydrate consistently**: 0.4-0.7L per hour, with electrolytes
-- **Train your gut**: Practice race nutrition during training
-- **Plan ahead**: Pre-pack foods, organize by timing or discipline
-- **Coordinate with team**: Sync fueling breaks and share supplies
-
-With a solid nutrition strategy, you'll avoid bonking, maintain mental clarity for navigation, and enjoy the race from start to finish.
+Nutrition and hydration are trainable skills that dramatically impact performance. Start with proper pre-race fueling, eat and drink consistently throughout (every 20-30 minutes, 40-60g carbs/hour), mix sport nutrition with real food, manage electrolytes, and maintain 0.4-0.7L hydration per hour. Train your gut, coordinate with your team, and you'll maintain energy and finish strong.
 
 ---
 
