@@ -1,10 +1,14 @@
 # Nutrition and Hydration for Adventure Racing
 
+<br/>
+
 ## Introduction
 
 Proper nutrition and hydration can make the difference between finishing strong and bonking halfway through your race. Unlike short races where you can rely on pre-race fueling alone, adventure racing requires continuous, strategic eating and drinking throughout the event.
 
 This guide covers everything from pre-race preparation to in-race fueling strategies, hydration management, and recovery nutrition. Whether you're tackling your first sprint race or preparing for a 24-hour event, understanding how to fuel your body will dramatically improve your performance and enjoyment.
+
+<br/>
 
 ## Why Nutrition Matters in Adventure Racing
 
@@ -23,6 +27,8 @@ This guide covers everything from pre-race preparation to in-race fueling strate
 
 ### The Goal
 Maintain consistent energy levels, stay hydrated, avoid stomach issues, and finish strong—not just survive.
+
+<br/>
 
 ## Pre-Race Nutrition (Days Before)
 
@@ -58,6 +64,8 @@ Maintain consistent energy levels, stay hydrated, avoid stomach issues, and fini
 - Sodium helps retain fluids
 - Use electrolyte drinks, tablets, or add salt to meals
 - Especially important in hot/humid conditions
+
+<br/>
 
 ## Race Morning Nutrition
 
@@ -96,6 +104,8 @@ Maintain consistent energy levels, stay hydrated, avoid stomach issues, and fini
 - Large meals or solid foods
 - Dairy products (for those sensitive)
 - Anything new or untested
+
+<br/>
 
 ## Fueling During the Race
 
@@ -195,6 +205,8 @@ Maintain consistent energy levels, stay hydrated, avoid stomach issues, and fini
 
 For more on efficient transitions, see our [Transition Areas Guide](/content/transition-areas.md).
 
+<br/>
+
 ## Hydration Strategy
 
 ### How Much to Drink
@@ -268,6 +280,8 @@ For more on efficient transitions, see our [Transition Areas Guide](/content/tra
 
 **Prevention**: Drink consistently, don't wait for extreme thirst
 
+<br/>
+
 ## Managing Stomach Issues
 
 ### Common GI Problems
@@ -305,6 +319,8 @@ For more on efficient transitions, see our [Transition Areas Guide](/content/tra
 - Bland carbs (crackers, pretzels, bread)
 - Small sips of electrolyte drink
 
+<br/>
+
 ## Preventing Bonking
 
 ### What is Bonking?
@@ -337,6 +353,8 @@ If you bonk despite your best efforts:
 4. **Resume at slower pace**: It takes 20-30 minutes to feel better
 5. **Continue eating regularly**: Once recovered, don't repeat the mistake
 
+<br/>
+
 ## Caffeine Strategy
 
 ### Benefits of Caffeine
@@ -368,6 +386,8 @@ If you bonk despite your best efforts:
 - Don't overdo it (jitters, anxiety, GI issues)
 - May disrupt sleep if planning to sleep mid-race
 
+<br/>
+
 ## Team Nutrition Coordination
 
 ### Sync Your Fueling
@@ -396,6 +416,8 @@ If you bonk despite your best efforts:
 - Offer variety when someone can't stomach their own food
 
 For more on teamwork, see our [Team Dynamics Guide](/content/team-dynamics.md).
+
+<br/>
 
 ## Post-Race Nutrition and Recovery
 
@@ -444,6 +466,8 @@ For more on teamwork, see our [Team Dynamics Guide](/content/team-dynamics.md).
 - Eat when hungry
 - Focus on nutrient-dense foods
 
+<br/>
+
 ## Sample Nutrition Plans
 
 ### Sprint Race (4 hours)
@@ -487,6 +511,8 @@ For more on teamwork, see our [Team Dynamics Guide](/content/team-dynamics.md).
 
 **Total**: ~600g carbs, ~6-8 liters fluid
 
+<br/>
+
 ## Common Nutrition Mistakes
 
 ### Mistake #1: Not Eating Early Enough
@@ -516,6 +542,8 @@ For more on teamwork, see our [Team Dynamics Guide](/content/team-dynamics.md).
 ### Mistake #7: Forgetting to Practice Nutrition
 **Problem**: Race-day surprises, untested stomach tolerance
 **Solution**: Practice exact race nutrition during training
+
+<br/>
 
 ## Summary
 

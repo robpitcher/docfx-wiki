@@ -1,17 +1,25 @@
 # Trekking in Adventure Racing
 
+<br/>
+
 ## What is Trekking in Adventure Racing?
 
 Trekking (or foot travel) is often the most demanding discipline in adventure racing. Unlike a traditional trail run, trekking sections combine trail running, power hiking, bushwhacking through unmarked terrain, and off-trail navigation—often while carrying a pack and racing for hours or even days. Success in trekking requires not just fitness, but also smart pacing, solid navigation skills, proper footwear, diligent foot care, and excellent teamwork.
 
+<br/>
+
 ## Trail Running vs. Race Trekking
 
 ### The Reality of Race Trekking
+
 Don't expect to run the entire trekking section. Adventure racing trekking involves:
 - **Mixed movement**: Running, hiking, and sometimes crawling through difficult terrain
 - **Power hiking**: Walking efficiently uphill or through technical sections—even elite racers power hike
 - **Variable terrain**: Rocks, mud, steep climbs, descents, creek crossings, and dense vegetation
 - **Navigation while moving**: Constantly checking your map and making route decisions
+
+> [!TIP]
+> Use trekking sections to rehearse your navigation chatter—call out bearings and landmarks even in training.
 
 ### Embrace the Hike
 There's no shame in hiking, especially on steep inclines or rough terrain. Power hiking—walking with purpose and good form—is often more efficient than struggling to run. Save your running energy for flat or gently rolling terrain where it makes sense.
@@ -22,6 +30,8 @@ Train for trekking by:
 - **Training on varied terrain**: Seek out trails with rocks, roots, hills, and technical features
 - **Carrying weight**: Train with a loaded pack (10-15 lbs) to simulate race conditions
 - **Practicing navigation**: Combine training hikes with map-reading practice
+
+<br/>
 
 ## Bushwhacking and Off-Trail Navigation
 
@@ -48,6 +58,8 @@ Effective navigation requires:
 - **Relocation techniques**: If lost, identify surrounding features and work backward to find yourself
 
 Learn more about navigation in our [Navigation Guide](/content/navigation.md).
+
+<br/>
 
 ## Footwear and Foot Care
 
@@ -95,6 +107,8 @@ Learn more about navigation in our [Navigation Guide](/content/navigation.md).
 - Drain blisters if large (sterilize needle, drain fluid, cover with tape)
 - Never ignore foot pain—small problems become race-ending issues
 
+<br/>
+
 ## Pacing Strategy
 
 ### Think "All-Day Pace"
@@ -115,6 +129,8 @@ Trekking poles can be highly beneficial:
 
 However, poles can be cumbersome when bushwhacking or scrambling. Decide based on terrain and personal preference.
 
+<br/>
+
 ## Nutrition and Hydration While Trekking
 
 ### Fuel Continuously
@@ -130,6 +146,8 @@ Don't wait until you're hungry or tired:
 - Monitor urine color—clear to light yellow is ideal
 
 Learn more about race nutrition in our [Nutrition Guide](/content/nutrition.md).
+
+<br/>
 
 ## Night Trekking
 
@@ -163,6 +181,8 @@ Trekking at night is significantly harder:
 - Watch for tripping hazards (roots, rocks, holes)
 - Use trekking poles for stability
 - Take care on steep descents—falls are more likely in darkness
+
+<br/>
 
 ## Moving Efficiently as a Team
 
@@ -202,6 +222,8 @@ Trekking at night is significantly harder:
 
 Learn more about teamwork in our [Team Dynamics Guide](/content/team-dynamics.md).
 
+<br/>
+
 ## Training for Trekking
 
 ### Build Endurance
@@ -224,6 +246,8 @@ Learn more about teamwork in our [Team Dynamics Guide](/content/team-dynamics.md
 - Practice eating and drinking while moving
 - Trek with your team to build chemistry and communication
 
+<br/>
+
 ## Common Mistakes to Avoid
 
 1. **Starting too fast**: Save energy for later hours when fatigue sets in
@@ -233,6 +257,8 @@ Learn more about teamwork in our [Team Dynamics Guide](/content/team-dynamics.md
 5. **Fighting the terrain**: Sometimes a detour is faster than forcing through obstacles
 6. **Not training specificity**: Road running doesn't prepare you for rocky, muddy trails
 7. **Neglecting night practice**: Night trekking is dramatically different from daytime
+
+<br/>
 
 ## Summary
 

@@ -1,10 +1,25 @@
 # Transition Areas in Adventure Racing
 
+<br/>
+
 ## Introduction
 
 Transition Areas (TAs) are where you switch between disciplines—from trekking to biking, biking to paddling, or any other combination. While TAs might seem like opportunities to rest, they're actually critical race sections where efficient teams gain significant time advantages over disorganized ones.
 
 Fast, organized transitions can save 30-60 minutes or more over the course of a race. More importantly, smooth transitions reduce stress, prevent forgotten gear, and set your team up for success on the next leg. This guide covers everything from pre-race preparation to in-transition execution strategies.
+
+The flowchart below shows the typical sequence teams follow in a transition area.
+
+```mermaid
+flowchart LR
+    A[Finish Leg] --> B[Enter Transition Area]
+    B --> C[Gear Change + Refuel]
+    C --> D[Plot Next Leg]
+    D --> E[Gear Check]
+    E --> F[Exit Transition Area]
+```
+
+<br/>
 
 ## What is a Transition Area?
 
@@ -49,6 +64,8 @@ Fast, organized transitions can save 30-60 minutes or more over the course of a 
 - All team members must be present before accessing bins
 - Team stays together throughout transition
 - Can't receive outside assistance from crew (usually)
+
+<br/>
 
 ## Pre-Race Preparation: The Key to Fast Transitions
 
@@ -134,6 +151,8 @@ TA2: Bike to Paddle
 ```
 
 **Assign One Person** to review checklist before leaving each TA
+
+<br/>
 
 ## Executing Efficient Transitions
 
@@ -246,6 +265,8 @@ TA2: Bike to Paddle
 - Medical issues need proper attention
 - Mandatory gear check can't be skipped
 
+<br/>
+
 ## Common Transition Mistakes
 
 ### Mistake #1: Overpacking Bins
@@ -288,6 +309,8 @@ TA2: Bike to Paddle
 **Problem**: Mandatory items, race bibs, or essential gear left at TA
 **Solution**: Final visual sweep of area before leaving
 
+<br/>
+
 ## Advanced Transition Strategies
 
 ### Pre-Positioning Food
@@ -319,6 +342,8 @@ TA2: Bike to Paddle
 - Designate wake-up person
 - Prepare gear before sleeping to speed exit
 
+<br/>
+
 ## TA Etiquette and Rules
 
 ### Respect Other Teams
@@ -338,6 +363,8 @@ TA2: Bike to Paddle
 - Follow their instructions
 - Be polite even when exhausted
 
+<br/>
+
 ## Practicing Transitions
 
 ### Training Day Simulations
@@ -355,6 +382,8 @@ TA2: Bike to Paddle
 - If possible, walk through TA locations before race
 - Visualize your sequence
 - Review roles with team
+
+<br/>
 
 ## Summary
 

@@ -1,8 +1,12 @@
 # Getting Started with Adventure Racing
 
+<br/>
+
 ## Welcome to Adventure Racing!
 
 So you're interested in adventure racing? Excellent choice! Adventure racing combines navigation, endurance, teamwork, and outdoor skills into one of the most challenging and rewarding outdoor sports. Whether you're an experienced endurance athlete looking for a new challenge or someone seeking an exciting outdoor adventure, this guide will help you take your first steps into the sport.
+
+<br/>
 
 ## Is Adventure Racing Right for You?
 
@@ -29,6 +33,8 @@ You DON'T need to be:
 
 **It's About the Journey**: Don't focus on winning your first race. Focus on learning, experiencing, and finishing.
 
+<br/>
+
 ## Step 1: Find Your First Race
 
 ### Start with a Sprint Race
@@ -39,6 +45,9 @@ You DON'T need to be:
 - Minimal gear needed
 - Forgiving of mistakes
 - Great learning environment
+
+> [!TIP]
+> If you're on the fence, volunteer at a local sprint race. You'll see how transitions work and meet potential teammates.
 
 ### Where to Find Races
 
@@ -66,6 +75,8 @@ You DON'T need to be:
 - Note mandatory gear requirements
 - Understand the refund/transfer policy
 - Join the race Facebook group or forum for questions
+
+<br/>
 
 ## Step 2: Build Your Team
 
@@ -112,6 +123,8 @@ Most races require teams of 2-4 people:
 - Navigation experience (who will navigate?)
 - Time commitment for training
 - Budget for gear and entry fees
+
+<br/>
 
 ## Step 3: Learn Core Skills
 
@@ -175,6 +188,8 @@ Most races require teams of 2-4 people:
 - 1-2 cross-training or strength sessions
 - 1 rest day
 
+<br/>
+
 ## Step 4: Acquire Essential Gear
 
 ### What You Actually Need
@@ -219,6 +234,8 @@ Most races require teams of 2-4 people:
 
 For detailed gear guidance, see our [Gear Guide](/content/gear.md).
 
+<br/>
+
 ## Step 5: Train as a Team
 
 ### Why Team Training Matters
@@ -248,6 +265,8 @@ For detailed gear guidance, see our [Gear Guide](/content/gear.md).
 - Practice transitions between disciplines
 - Navigate together for several hours
 - Identify and fix problems
+
+<br/>
 
 ## Step 6: Race Week Preparation
 
@@ -286,6 +305,8 @@ For detailed gear guidance, see our [Gear Guide](/content/gear.md).
 - Plot checkpoints and plan route
 - Eat pre-race meal (2-3 hours before start)
 - Stay calm and positive
+
+<br/>
 
 ## Step 7: During Your First Race
 
@@ -347,6 +368,8 @@ For detailed gear guidance, see our [Gear Guide](/content/gear.md).
 - Focus on mandatory CPs only
 - Stay positive and keep moving
 
+<br/>
+
 ## Step 8: Post-Race
 
 ### Immediate Post-Race
@@ -389,6 +412,8 @@ For detailed gear guidance, see our [Gear Guide](/content/gear.md).
 - Note training needs
 - Plan improvements for next race
 
+<br/>
+
 ## Next Steps: Growing in the Sport
 
 ### Continue Learning
@@ -419,6 +444,8 @@ Once committed to the sport:
 - Volunteer at races
 - Mentor new racers
 
+<br/>
+
 ## Common First-Race Questions
 
 **Q: How fit do I need to be?**
@@ -441,6 +468,8 @@ A: Race entry usually includes event insurance. Check with race director. Person
 
 **Q: What if someone gets injured?**
 A: Address immediately. Use first aid kit. Contact race staff if serious. Safety is more important than finishing.
+
+<br/>
 
 ## Final Encouragement
 

@@ -6,6 +6,11 @@ Adventure racing is a thrilling multidisciplinary endurance sport that combines 
 
 Unlike traditional running or biking races where you follow a marked route, adventure racing requires you to plan your own path. Teams make strategic decisions about which checkpoints to visit and how to connect them, navigating through forests, across rivers, and over mountains while managing limited time and energy.
 
+> [!NOTE]
+> Most races allow only map-and-compass navigation, so practicing those skills early makes every other discipline smoother.
+
+
+<br/>
 
 ## Core Race Disciplines
 
@@ -22,6 +27,8 @@ Some races include:
 - Orienteering challenges
 - Special team challenges
 - Inline skating (less common)
+
+<br/>
 
 ## Race Formats by Duration
 
@@ -53,6 +60,8 @@ Adventure races are categorized primarily by time, not distance. Here's what to 
 - **Ideal for**: Elite-level teams
 - **Format**: Can last several days and cover hundreds of miles
 - **What to expect**: Ultimate test of endurance, navigation, and team dynamics
+
+<br/>
 
 ## Checkpoint Navigation
 
@@ -86,6 +95,8 @@ Unlike marked trails, you decide how to travel between checkpoints. This require
 **Gear Checks**: Race directors conduct gear checks before the race. Missing mandatory items can result in penalties, time additions, or disqualification.
 
 **No Outside Navigation Aids**: GPS navigation devices are typically prohibited (except race-provided safety trackers). You must navigate using map and compass.
+
+<br/>
 
 ## What Makes Adventure Racing Special
 

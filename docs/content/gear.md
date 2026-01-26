@@ -1,10 +1,14 @@
 # Adventure Racing Gear Guide
 
+<br/>
+
 ## Introduction
 
 Gear can make or break your adventure race experience. Too much weight slows you down; too little leaves you unprepared for emergencies. The right equipment keeps you safe, comfortable, and efficient throughout the race.
 
 This guide breaks down adventure racing gear into mandatory safety equipment, discipline-specific gear, and optional but recommended items. We'll also cover common beginner mistakes and how to organize your gear for efficient transitions.
+
+<br/>
 
 ## Understanding Mandatory Gear
 
@@ -30,6 +34,8 @@ Race directors create mandatory gear lists to ensure:
 - Damaged/lost mandatory gear must be replaced or team withdraws
 
 **Key Point**: Always read the race-specific gear list carefully. Requirements vary by race duration, location, and season.
+
+<br/>
 
 ## Mandatory Safety Equipment
 
@@ -107,6 +113,8 @@ Race directors create mandatory gear lists to ensure:
 - Pressure immobilization bandage
 - Common in Australia, parts of US
 
+<br/>
+
 ## Navigation Gear (Mandatory)
 
 ### Essential Navigation Tools
@@ -134,6 +142,8 @@ Race directors create mandatory gear lists to ensure:
 - Can be homemade or purchased
 
 For detailed navigation techniques, see our [Navigation Guide](/content/navigation.md).
+
+<br/>
 
 ## Clothing and Footwear
 
@@ -188,6 +198,8 @@ For detailed navigation techniques, see our [Navigation Guide](/content/navigati
 
 For more on footwear and foot care, see our [Trekking Guide](/content/trekking.md).
 
+<br/>
+
 ## Bike-Specific Gear
 
 ### Mandatory Bike Gear
@@ -219,6 +231,8 @@ For more on footwear and foot care, see our [Trekking Guide](/content/trekking.m
 
 For complete biking information, see our [Biking Guide](/content/biking.md).
 
+<br/>
+
 ## Paddling Gear
 
 ### Boat and Safety Equipment
@@ -249,6 +263,8 @@ For complete biking information, see our [Biking Guide](/content/biking.md).
 
 For comprehensive paddling information, see our [Paddling Guide](/content/paddling.md).
 
+<br/>
+
 ## Hydration and Nutrition Storage
 
 ### Hydration Systems
@@ -276,6 +292,8 @@ For comprehensive paddling information, see our [Paddling Guide](/content/paddli
 - Organizes by type or timing
 
 For detailed nutrition strategies, see our [Nutrition Guide](/content/nutrition.md).
+
+<br/>
 
 ## Backpacks and Gear Organization
 
@@ -322,6 +340,8 @@ For detailed nutrition strategies, see our [Nutrition Guide](/content/nutrition.
 - Bike helmet (when trekking)
 - Wet clothing (to dry while moving)
 
+<br/>
+
 ## Optional but Recommended Gear
 
 ### Performance Enhancers
@@ -364,6 +384,8 @@ For detailed nutrition strategies, see our [Nutrition Guide](/content/nutrition.
 - Warm layer for cold weather
 - Complete change for post-race
 
+<br/>
+
 ## Transition Area Gear Organization
 
 ### Gear Bins/Bags
@@ -389,6 +411,8 @@ For detailed nutrition strategies, see our [Nutrition Guide](/content/nutrition.
 - Chargers for electronics
 
 For efficient transition strategies, see our [Transition Areas Guide](/content/transition-areas.md).
+
+<br/>
 
 ## Gear Weight and Multi-Use Strategy
 
@@ -426,6 +450,8 @@ For efficient transition strategies, see our [Transition Areas Guide](/content/t
 - Can gear be shared among teammates?
 - Do you really need that item, or is it "just in case"?
 
+<br/>
+
 ## Common Beginner Gear Mistakes
 
 ### Mistake #1: Overpacking
@@ -459,6 +485,8 @@ For efficient transition strategies, see our [Transition Areas Guide](/content/t
 ### Mistake #8: Wrong Gear for Conditions
 **Problem**: Hypothermia in unexpected cold, dehydration in heat
 **Solution**: Check weather forecast; bring layers; plan for worst-case scenarios
+
+<br/>
 
 ## Gear Checklist for Your First Race
 
@@ -526,6 +554,8 @@ Add to 12-hour checklist:
 - [ ] More comprehensive bike repair kit
 - [ ] Backup compass
 - [ ] Increased food supply
+
+<br/>
 
 ## Summary
 
