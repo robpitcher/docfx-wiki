@@ -60,8 +60,66 @@ Output goes to `docs/_site/`.
 
 ## Publish
 
-This repo includes a GitHub Actions workflow that builds the site and deploys `docs/_site` to GitHub Pages on pushes to `main`.
+This repository supports two deployment options:
+
+### Option 1: GitHub Pages (Default)
+
+A GitHub Actions workflow automatically builds and deploys `docs/_site` to GitHub Pages on pushes to `main`.
+
+Workflow: `.github/workflows/publish-site.yml`
+
+### Option 2: Azure Static Web Apps
+
+Deploy to Azure Static Web Apps for a production-ready hosting solution with global CDN, custom domains, and automatic SSL certificates.
+
+#### Quick Setup
+
+1. **Deploy Infrastructure**
+   ```bash
+   # Edit parameters in infra/bicep.parameters.json
+   # Then deploy:
+   cd infra
+   az group create --name rg-docfx-wiki --location eastus2
+   az deployment group create \
+     --resource-group rg-docfx-wiki \
+     --template-file main.bicep \
+     --parameters bicep.parameters.json
+   ```
+
+2. **Get Deployment Token**
+   ```bash
+   az deployment group show \
+     --resource-group rg-docfx-wiki \
+     --name main \
+     --query properties.outputs.deploymentToken.value \
+     --output tsv
+   ```
+
+3. **Add GitHub Secret**
+   - Go to repository Settings → Secrets and variables → Actions
+   - Create new secret: `AZURE_STATIC_WEB_APPS_API_TOKEN`
+   - Paste the deployment token
+
+4. **Enable Workflow**
+   
+   The workflow `.github/workflows/azure-swa-deploy.yml` will automatically deploy on pushes to `main` when documentation changes.
+
+#### Customization
+
+- **Infrastructure**: Edit `infra/bicep.parameters.json` to customize:
+  - `staticWebAppName`: Your unique app name
+  - `location`: Azure region
+  - `sku`: Free or Standard tier
+  - `tags`: Resource organization tags
+
+- **Runtime Configuration**: Edit `staticwebapp.config.json` for:
+  - Navigation fallback rules
+  - Custom routes
+  - Headers and MIME types
+
+See [infra/README.md](infra/README.md) for detailed deployment instructions.
 
 ## Learn more
 
 - DocFX project: https://github.com/dotnet/docfx
+- Azure Static Web Apps: https://learn.microsoft.com/azure/static-web-apps/
