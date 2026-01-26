@@ -1,11 +1,15 @@
 - name: Introduction
   href: introduction.md
+- name: Race Formats
+  href: race-formats.md
 - name: Getting Started
   href: getting-started.md
-- name: Core Skills
+- name: Rules
+  href: rules.md
+- name: Navigation
+  href: navigation.md
+- name: Core Disciplines
   items:
-    - name: Navigation
-      href: navigation.md
     - name: Trekking
       href: trekking.md
     - name: Mountain Biking
