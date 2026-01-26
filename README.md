@@ -72,37 +72,21 @@ Workflow: `.github/workflows/publish-site.yml`
 
 Deploy to Azure Static Web Apps for a production-ready hosting solution with global CDN, custom domains, and automatic SSL certificates.
 
-#### Quick Setup
+#### Quick Deploy (Automated Script)
 
-1. **Deploy Infrastructure**
-   ```bash
-   # Edit parameters in infra/bicep.parameters.json
-   # Then deploy:
-   cd infra
-   az group create --name rg-docfx-wiki --location eastus2
-   az deployment group create \
-     --resource-group rg-docfx-wiki \
-     --template-file main.bicep \
-     --parameters bicep.parameters.json
-   ```
+```bash
+./deploy-azure.sh
+```
 
-2. **Get Deployment Token**
-   ```bash
-   az deployment group show \
-     --resource-group rg-docfx-wiki \
-     --name main \
-     --query properties.outputs.deploymentToken.value \
-     --output tsv
-   ```
+This script will:
+- Create the Azure resource group
+- Deploy the Static Web App using Bicep
+- Retrieve the deployment token
+- Display next steps for GitHub setup
 
-3. **Add GitHub Secret**
-   - Go to repository Settings → Secrets and variables → Actions
-   - Create new secret: `AZURE_STATIC_WEB_APPS_API_TOKEN`
-   - Paste the deployment token
+#### Manual Deployment
 
-4. **Enable Workflow**
-   
-   The workflow `.github/workflows/azure-swa-deploy.yml` will automatically deploy on pushes to `main` when documentation changes.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed step-by-step instructions.
 
 #### Customization
 
@@ -117,7 +101,7 @@ Deploy to Azure Static Web Apps for a production-ready hosting solution with glo
   - Custom routes
   - Headers and MIME types
 
-See [infra/README.md](infra/README.md) for detailed deployment instructions.
+See [infra/README.md](infra/README.md) for infrastructure details.
 
 ## Learn more
 
