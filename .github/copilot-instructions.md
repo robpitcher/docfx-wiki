@@ -1,75 +1,67 @@
-# Repo Instructions (Minimal)
+# Repo Instructions (Template-Friendly)
 
-Purpose: Give Copilot a quick map of this repo so it can suggest accurate edits without scanning everything. Emphasis is on the docs/content authoring location.
+Purpose: Give Copilot a quick map of this DocFX-based docs repo so it can make accurate edits without scanning everything. These instructions are intentionally generic so the repo can be templated.
 
-## Overview
+## Repository map
 
-- Primary docs live in [docs/content](../docs/content).
-- Site scaffolding and DocFX config live in [docs](../docs).
+- Author content lives in [docs/content](../docs/content).
+- Site scaffolding + DocFX config live in [docs](../docs).
 - Generated site output lives in [docs/_site](../docs/_site) (do not edit).
-- Publishing is handled by GitHub Actions in [.github/workflows/publish-site.yml](workflows/publish-site.yml).
-- Entry redirect is defined in [docs/index.md](../docs/index.md).
-- Top-level readme is [README.md](../README.md).
+- Publishing is handled by GitHub Actions in [.github/workflows](../.github/workflows).
+- The site landing/redirect is defined in [docs/index.md](../docs/index.md).
+- Project root overview is in [README.md](../README.md).
 
-## Authoring Location: docs/content
+## Where to edit
 
-Write and edit Markdown pages in [docs/content](../docs/content). Examples:
-- [docs/content/introduction.md](../docs/content/introduction.md)
-- [docs/content/getting-started.md](../docs/content/getting-started.md)
-- [docs/content/navigation.md](../docs/content/navigation.md)
-- [docs/content/gear.md](../docs/content/gear.md)
-- [docs/content/biking.md](../docs/content/biking.md)
-- [docs/content/trekking.md](../docs/content/trekking.md)
-- [docs/content/paddling.md](../docs/content/paddling.md)
-- [docs/content/team-dynamics.md](../docs/content/team-dynamics.md)
-- [docs/content/transition-areas.md](../docs/content/transition-areas.md)
-- [docs/content/race-formats.md](../docs/content/race-formats.md)
+Most of the time you should only touch:
+- Markdown content pages in [docs/content](../docs/content)
+- Navigation in [docs/content/toc.yml](../docs/content/toc.yml)
 
-Navigation menu is controlled by [docs/content/toc.yml](../docs/content/toc.yml).
+Avoid editing generated artifacts under [docs/_site](../docs/_site).
 
-### Content conventions
+## Content conventions
 
-- Each page uses a single H1 as the page title.
-- Use absolute content links like `/content/<file>.md` inside pages for cross-linking (examples are already present across pages).
-- Keep callouts simple; standard Markdown works. Existing pages may use DocFX-style notes (e.g., `> [!IMPORTANT]`) where helpful.
-- Avoid editing anything under [docs/_site](../docs/_site); that folder is generated.
+- Use a single H1 (`# Title`) at the top of each page.
+- Prefer simple, standard Markdown. DocFX-style callouts are fine when useful (e.g., `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`).
+- For cross-linking between content pages, prefer absolute content links like `/content/<page>.md`.
+- Keep headings and section structure consistent within a page; avoid duplicate H1s.
 
-### Adding a new page
+## Adding or moving pages
 
-1. Create `new-topic.md` under [docs/content](../docs/content).
-2. Add it to [docs/content/toc.yml](../docs/content/toc.yml) under the appropriate section.
-3. Cross-link from related pages using `/content/new-topic.md`.
+### Add a new page
+1. Create a new `.md` file under [docs/content](../docs/content) (choose a short, URL-safe file name).
+2. Add it to [docs/content/toc.yml](../docs/content/toc.yml) under the appropriate section so it appears in navigation.
+3. Add at least one link to it from a related page (use `/content/<page>.md`).
 
-### Updating navigation
+### Rename or move a page
+- If you rename/move a file in [docs/content](../docs/content), also update:
+	- Its entry in [docs/content/toc.yml](../docs/content/toc.yml)
+	- Any internal links that reference the old path
 
-- Edit [docs/content/toc.yml](../docs/content/toc.yml) to add, remove, or reorder pages.
-- Keep names concise; hrefs must match file names in [docs/content](../docs/content).
+## DocFX structure
 
-## DocFX and site structure
-
-- DocFX config lives in [docs/docfx.json](../docs/docfx.json).
-- The site entry point redirects to the intro via [docs/index.md](../docs/index.md).
-- Generated artifacts (HTML, JSON, xref) are placed under [docs/_site](../docs/_site).
+- DocFX config is in [docs/docfx.json](../docs/docfx.json).
+- The build output folder is [docs/_site](../docs/_site) and is generated.
+- Templates (if present) live under [docs/template](../docs/template).
 
 ## Build and publish
 
-- CI/CD is defined in [.github/workflows/publish-site.yml](workflows/publish-site.yml).
-- Commit content changes in [docs/content](../docs/content) and navigation changes in [docs/content/toc.yml](../docs/content/toc.yml); Action handles publish.
-- Local preview (optional): Use DocFX if available to build from [docs](../docs). Otherwise rely on CI.
+- CI/CD workflow(s) live in [.github/workflows](../.github/workflows).
+- Typical authoring changes are just content + toc; CI handles the DocFX build and deployment.
+- Local preview (optional): run DocFX from the repo root using something like `docfx docs/docfx.json --serve`.
 
 ## What NOT to change
 
-- Do not hand-edit files in [docs/_site](../docs/_site).
-- Do not move or rename core content without updating [docs/content/toc.yml](../docs/content/toc.yml) and internal links.
-- Keep [docs/index.md](../docs/index.md) redirect intact unless changing the site’s landing behavior.
+- Do not hand-edit anything under [docs/_site](../docs/_site).
+- Do not change the redirect behavior in [docs/index.md](../docs/index.md) unless you intend to change the site landing page.
+- Avoid large refactors (renames/moves) unless you also update navigation + links.
 
 ## Quick pointers for Copilot
 
-- Prefer editing files under [docs/content](../docs/content).
-- When asked to add topics, generate a new `.md` under [docs/content](../docs/content) and update [docs/content/toc.yml](../docs/content/toc.yml).
-- Use existing link patterns and section headings from the current pages.
-- Reference related guides with absolute content links (e.g., `/content/navigation.md`, `/content/gear.md`).
+- Default to editing files under [docs/content](../docs/content).
+- When adding pages, always update [docs/content/toc.yml](../docs/content/toc.yml).
+- Keep changes minimal and consistent with existing page style.
 
 ## License
 
-- Project is MIT-licensed: see [LICENSE](../LICENSE).
+- See [LICENSE](../LICENSE).
