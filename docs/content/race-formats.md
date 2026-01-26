@@ -6,7 +6,7 @@ Adventure races are categorized primarily by time, not distance. This page summa
 
 ## Race Formats by Duration
 
-Adventure races are categorized primarily by time, not distance. Here's what to expect:
+Here's what to expect:
 
 ### Sprint Races (2-8 hours)
 - **Ideal for**: First-timers and those new to adventure racing
