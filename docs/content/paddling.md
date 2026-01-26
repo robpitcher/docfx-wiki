@@ -1,10 +1,14 @@
 # Paddling in Adventure Racing
 
+<br/>
+
 ## Introduction
 
 Paddling is often the most intimidating discipline for new adventure racers, yet it can also be one of the most rewarding. Whether in canoes, kayaks, or packrafts, paddling sections offer a unique challenge that combines physical endurance, technical skill, navigation, and teamwork—all while on the water.
 
 Unlike recreational paddling, adventure racing paddling involves navigating to checkpoints, managing time pressure, coordinating with teammates in close quarters, and sometimes portaging (carrying) your boat between water sections. This guide covers everything beginners need to know to tackle paddling legs with confidence.
+
+<br/>
 
 ## Types of Boats Used in Adventure Racing
 
@@ -73,6 +77,8 @@ Many races provide canoes or kayaks at paddling transition areas. This eliminate
 **Pros**: No ownership or transport required
 **Cons**: May be heavier or less well-maintained; you don't get to practice with the exact boat
 
+<br/>
+
 ## Basic Paddling Technique
 
 ### Forward Stroke (Most Important)
@@ -108,6 +114,8 @@ Many races provide canoes or kayaks at paddling transition areas. This eliminate
 - **Eddies**: Calm pockets behind rocks or points—useful for resting
 - **Obstacles**: Watch for rocks, logs, and shallow areas
 - **Wind**: Can push you off course—anticipate and correct constantly
+
+<br/>
 
 ## Safety Essentials
 
@@ -165,6 +173,8 @@ Many races provide canoes or kayaks at paddling transition areas. This eliminate
 - Lean into turns, not away
 - Be extra careful in wind and waves
 
+<br/>
+
 ## Team Coordination in Boats
 
 ### Roles in Tandem Boats
@@ -200,6 +210,8 @@ Many races provide canoes or kayaks at paddling transition areas. This eliminate
 
 Learn more about navigation techniques in our [Navigation Guide](/content/navigation.md).
 
+<br/>
+
 ## Portaging (Carrying Your Boat)
 
 ### What is Portaging?
@@ -222,6 +234,8 @@ Carrying your boat and gear over land between water sections or around obstacles
 - **Minimize items**: Don't bring unnecessary gear into the boat
 - **Quick access**: Keep frequently-needed items (map, snacks, repair kit) accessible
 - **Load distribution**: Balance weight in boat for better handling
+
+<br/>
 
 ## Training for Paddling
 
@@ -246,6 +260,8 @@ Carrying your boat and gear over land between water sections or around obstacles
 - **Paddle after biking or trekking**: Simulate the fatigue of multi-sport racing
 - **Cold or wet conditions**: Train in challenging weather to build confidence
 - **Time-based goals**: Practice maintaining pace for 1-2 hours straight
+
+<br/>
 
 ## Common Mistakes and How to Avoid Them
 
@@ -285,6 +301,8 @@ Carrying your boat and gear over land between water sections or around obstacles
 **Mistake**: Launching unprepared or forgetting gear in boat after landing
 **Solution**: Take 30 seconds to organize; do gear check before and after paddling
 
+<br/>
+
 ## Paddling Strategy for Races
 
 ### Pre-Launch
@@ -304,6 +322,8 @@ Carrying your boat and gear over land between water sections or around obstacles
 - **Secure boat**: Follow race rules for leaving/storing boat
 - **Quick gear change**: Don't linger—move efficiently to next discipline
 - **Warm up if cold**: Change into dry layers immediately
+
+<br/>
 
 ## Summary
 

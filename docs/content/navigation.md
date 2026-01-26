@@ -1,10 +1,14 @@
 # Navigation in Adventure Racing
 
+<br/>
+
 ## Introduction
 
 Navigation is the defining skill in adventure racing—it's what separates it from other endurance sports. While fitness gets you to the start line, navigation skills determine where you finish. Even the strongest, fastest team will struggle without solid map and compass abilities. The good news? Navigation is a learnable skill that improves dramatically with practice.
 
 This guide covers everything from basic map reading and compass use to advanced route-finding strategies. Whether you're completely new to navigation or looking to sharpen your skills, this practical, race-oriented approach will help you find checkpoints efficiently and confidently.
+
+<br/>
 
 ## Why Navigation Matters in Adventure Racing
 
@@ -22,6 +26,8 @@ This guide covers everything from basic map reading and compass use to advanced 
 - Book knowledge helps, but practical experience is essential
 - Navigating while tired, at night, or in bad weather requires practice
 - Real-world problem-solving matters more than perfect technique
+
+<br/>
 
 ## Understanding Topographic Maps
 
@@ -88,6 +94,8 @@ Contour lines are the most important—and initially confusing—element of topo
 - String or edge of compass baseplate can mark winding routes
 - Learn to estimate: On 1:24,000 maps, your thumb width is roughly 1 mile
 
+<br/>
+
 ## Understanding UTM Coordinates
 
 ### What Are UTM Coordinates?
@@ -136,6 +144,8 @@ Contour lines are the most important—and initially confusing—element of topo
 
 **Practice Tip**: Print practice maps and plot 10-20 coordinates repeatedly until it becomes fast and automatic.
 
+<br/>
+
 ## Using a Compass
 
 ### Compass Parts
@@ -148,6 +158,9 @@ Contour lines are the most important—and initially confusing—element of topo
 - **Orienting arrow**: Fixed arrow in the housing (the "shed")
 - **Orienting lines**: Parallel lines in housing for aligning with map
 - **Index line**: Where you read the bearing at the base of direction arrow
+
+> [!IMPORTANT]
+> Always align the compass housing with the map grid before you take a bearing, or every step after that will be off.
 
 ### Taking a Bearing from the Map
 
@@ -186,6 +199,8 @@ Instead of aiming directly at a checkpoint near a linear feature (trail, stream)
 If you need to return to a point, take a back bearing by adding or subtracting 180° from your original bearing.
 - Original bearing: 45° → Back bearing: 225°
 - Original bearing: 310° → Back bearing: 130° (310 - 180)
+
+<br/>
 
 ## Route Choice Strategy
 
@@ -258,6 +273,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 5. **Count paces** or time to checkpoint
 6. **Fine-tune** using terrain association for final approach
 
+<br/>
+
 ## Finding Checkpoints
 
 ### Final Approach Techniques
@@ -293,6 +310,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 - Moving slowly and deliberately
 
 **Practice**: Micro-nav improves dramatically with orienteering practice. Attend local orienteering meets to develop this skill.
+
+<br/>
 
 ## Relocation: What To Do When Lost
 
@@ -339,6 +358,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 - **Communicate**: Tell teammates what you see and where you think you are
 - **Use multiple techniques**: Combine compass bearings, handrails, attack points
 - **Mark your progress**: Physical or mental waypoints help track your position
+
+<br/>
 
 ## Team Navigation Strategies
 
@@ -393,6 +414,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 - Frame mistakes as learning opportunities
 - Celebrate finding difficult checkpoints together
 
+<br/>
+
 ## Navigation Gear Essentials
 
 ### Must-Have Navigation Tools
@@ -441,6 +464,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 - Essential for night navigation
 - Fresh batteries and backup light
 - Red light mode preserves night vision while checking map
+
+<br/>
 
 ## Training Your Navigation Skills
 
@@ -492,6 +517,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 - Mix disciplines: navigate after biking or trekking
 - Combine navigation with other race skills
 
+<br/>
+
 ## Common Navigation Mistakes
 
 ### Mistake #1: Not Checking the Map Frequently
@@ -521,6 +548,8 @@ An obvious, easily-found feature near your checkpoint that you navigate to first
 ### Mistake #7: Not Pre-Plotting
 **Result**: Wasting time at race start, plotting errors, rushed decisions
 **Solution**: Plot all coordinates carefully before the race starts
+
+<br/>
 
 ## Summary
 

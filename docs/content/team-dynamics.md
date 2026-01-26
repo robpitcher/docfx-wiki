@@ -1,10 +1,17 @@
 # Team Dynamics in Adventure Racing
 
+<br/>
+
 ## Introduction
 
 Adventure racing is fundamentally a team sport. Unlike solo endurance events where you can rely solely on personal strength and willpower, adventure racing requires your team to function as a cohesive unit for hours or even days. The fastest individual athlete doesn't always win—the most cohesive, resilient team does.
 
 Strong team dynamics transform a group of individuals into an efficient,adaptable unit capable of handling navigation challenges, equipment failures, exhaustion, and environmental stress. This guide covers communication strategies, decision-making, pacing, conflict management, and leadership—the skills that separate successful teams from those who struggle.
+
+> [!IMPORTANT]
+> Set expectations early—before race day. The best teams treat planning sessions like part of training.
+
+<br/>
 
 ## Team Size and Composition
 
@@ -29,6 +36,8 @@ Adventure racing teaches valuable wilderness skills:
 - Making navigation corrections when lost
 - Adapting to changing weather and terrain conditions
 
+<br/>
+
 ## The Fundamental Rule: The Team Moves Together
 
 ### Why It Matters
@@ -50,6 +59,8 @@ This principle defines adventure racing teamwork:
 - Physical strength means nothing without team cohesion
 
 **Mindset Shift**: Your goal isn't individual performance—it's optimizing team performance.
+
+<br/>
 
 ## Communication Strategies
 
@@ -92,6 +103,8 @@ This principle defines adventure racing teamwork:
 - No question is stupid
 - No concern is dismissed
 - Everyone's voice matters equally
+
+<br/>
 
 ## Decision-Making as a Team
 
@@ -142,6 +155,8 @@ This principle defines adventure racing teamwork:
 - Share mental load of decision-making
 - Leverages individual strengths (best navigator leads trek sections, strong biker leads bike legs)
 
+<br/>
+
 ## Pacing and Supporting the Slowest Member
 
 ### Pacing to the Team
@@ -189,6 +204,8 @@ This principle defines adventure racing teamwork:
 - **Address the root cause**: Food, water, rest, blister care, equipment fix
 - **Consider withdrawal**: Some problems can't be solved in the field
 - **Never leave anyone behind**: Even if it means not finishing
+
+<br/>
 
 ## Managing Stress and Conflict
 
@@ -246,6 +263,8 @@ This principle defines adventure racing teamwork:
 - **Eat and drink**: Low blood sugar worsens stress
 - **Rest when needed**: Exhaustion amplifies conflict
 
+<br/>
+
 ## Keeping Morale High
 
 ### Why Morale Matters
@@ -298,6 +317,8 @@ This principle defines adventure racing teamwork:
 - **Break it down**: "Let's just get to the next transition area"
 - **Change the topic**: Distract with stories, questions, games
 
+<br/>
+
 ## Roles and Responsibilities
 
 ### Rotating Roles
@@ -339,6 +360,8 @@ This principle defines adventure racing teamwork:
 - Everyone should be able to navigate
 - Everyone should know basic bike repairs
 - Everyone contributes to all tasks
+
+<br/>
 
 ## Race-Ending Team Failures and How to Avoid Them
 
@@ -392,6 +415,8 @@ This principle defines adventure racing teamwork:
 - Debrief openly: what worked, what didn't
 - Celebrate the experience together
 - Apply lessons to the next race
+
+<br/>
 
 ## Summary
 

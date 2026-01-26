@@ -1,10 +1,14 @@
 # Mountain Biking in Adventure Racing
 
+<br/>
+
 ## Introduction
 
 Mountain biking is a core discipline in most adventure races, offering a welcome change of pace from trekking while covering distance more efficiently. However, biking in adventure racing is quite different from recreational mountain biking or road cycling. You'll face navigation challenges, varied terrain, equipment issues, and the need to stay with your team—all while managing energy for the other race disciplines and hours of racing ahead.
 
 This guide covers everything beginners need to know about the mountain biking portion of adventure racing, from choosing and setting up your bike to pacing strategies, team dynamics, and handling common mechanical issues.
+
+<br/>
 
 ## How Biking Works in Adventure Races
 
@@ -21,6 +25,8 @@ This guide covers everything beginners need to know about the mountain biking po
 - **Team coordination**: Stronger riders must pace with slower teammates
 - **Navigation**: You're constantly checking maps and making route decisions
 - **Multi-sport fatigue**: You're biking after trekking or before paddling, not with fresh legs
+
+<br/>
 
 ## Choosing the Right Bike
 
@@ -61,6 +67,8 @@ This guide covers everything beginners need to know about the mountain biking po
 - **Softer (lower pressure)**: Better for technical, rooty, or rocky trails
 - **Firmer (higher pressure)**: Better for smooth, fast-rolling trails and climbs
 - **Test before the race**: Dial in your suspension during training rides
+
+<br/>
 
 ## Tire Choice and Setup
 
@@ -107,6 +115,8 @@ Starting points (adjust for rider weight and terrain):
 - Tubeless valve stems
 - Carry spare tubes and a tubeless plug kit as backup
 
+<br/>
+
 ## Essential Repair Kit
 
 ### Bare Minimum (Mandatory)
@@ -131,6 +141,8 @@ Starting points (adjust for rider weight and terrain):
 - Store in a small bag under your saddle or in your frame bag
 - Keep frequently-needed items accessible
 - Test your repair kit on training rides—make sure you can actually use everything
+
+<br/>
 
 ## Common Mechanical Issues and Fixes
 
@@ -171,6 +183,8 @@ Starting points (adjust for rider weight and terrain):
 - **Weak braking**: Check brake pads for wear; adjust cable tension (mechanical) or bleed (hydraulic—rarely needed mid-race)
 - **Rubbing**: Wheel may be slightly untrue; can sometimes be fixed by adjusting brake calipers
 
+<br/>
+
 ## Pacing Strategy
 
 ### Think Long-Term
@@ -192,6 +206,8 @@ Adventure races are endurance events, not sprints. Your biking pace should be su
 - **Don't wait for hunger or thirst**: By then, you're already behind
 
 For more details, see our [Nutrition Guide](/content/nutrition.md).
+
+<br/>
 
 ## Team Riding Dynamics
 
@@ -224,6 +240,8 @@ On wider trails or roads, riding in a paceline saves energy:
 
 For more on navigation, see our [Navigation Guide](/content/navigation.md).
 
+<br/>
+
 ## Training for Adventure Racing Mountain Biking
 
 ### Build Endurance
@@ -253,6 +271,8 @@ For more on navigation, see our [Navigation Guide](/content/navigation.md).
 - Practice communication and teamwork
 - Test your race setup and gear
 
+<br/>
+
 ## Race Day Bike Tips
 
 ### Pre-Race
@@ -273,6 +293,8 @@ For more on navigation, see our [Navigation Guide](/content/navigation.md).
   - Remember exactly where you left them
   - Take navigation tools with you
 
+<br/>
+
 ## Common Beginner Mistakes
 
 1. **Riding too hard early**: Save energy for the full race
@@ -283,6 +305,8 @@ For more on navigation, see our [Navigation Guide](/content/navigation.md).
 6. **Separating from teammates**: Stay together—penalties aren't worth it
 7. **Wrong gear for terrain**: Gear up before hills, not during them
 8. **Skipping training on the bike**: Road riding doesn't prepare you for technical trails
+
+<br/>
 
 ## Summary
 
