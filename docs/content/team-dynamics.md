@@ -6,7 +6,7 @@
 
 Adventure racing is fundamentally a team sport. Unlike solo endurance events where you can rely solely on personal strength and willpower, adventure racing requires your team to function as a cohesive unit for hours or even days. The fastest individual athlete doesn't always win—the most cohesive, resilient team does.
 
-Strong team dynamics transform a group of individuals into an efficient,adaptable unit capable of handling navigation challenges, equipment failures, exhaustion, and environmental stress. This guide covers communication strategies, decision-making, pacing, conflict management, and leadership—the skills that separate successful teams from those who struggle.
+Strong team dynamics transform a group of individuals into an efficient, adaptable unit capable of handling navigation challenges, equipment failures, exhaustion, and environmental stress. This guide covers communication strategies, decision-making, pacing, conflict management, and leadership—the skills that separate successful teams from those who struggle.
 
 > [!IMPORTANT]
 > Set expectations early—before race day. The best teams treat planning sessions like part of training.

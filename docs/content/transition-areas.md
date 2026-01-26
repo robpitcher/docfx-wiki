@@ -8,6 +8,8 @@ Transition Areas (TAs) are where you switch between disciplines—from trekking 
 
 Fast, organized transitions can save 30-60 minutes or more over the course of a race. More importantly, smooth transitions reduce stress, prevent forgotten gear, and set your team up for success on the next leg. This guide covers everything from pre-race preparation to in-transition execution strategies.
 
+The flowchart below shows the typical sequence teams follow in a transition area.
+
 ```mermaid
 flowchart LR
     A[Finish Leg] --> B[Enter Transition Area]
