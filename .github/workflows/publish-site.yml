@@ -3,11 +3,11 @@ name: Deploy DocFX to GitHub Pages
 
 on:
   push:
-    paths:
-      - 'docs/**'
-  push:
     branches:
       - main
+    paths:
+      - 'docs/**'
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
