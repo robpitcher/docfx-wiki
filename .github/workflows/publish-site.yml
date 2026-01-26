@@ -3,6 +3,9 @@ name: Deploy DocFX to GitHub Pages
 
 on:
   push:
+    paths:
+      - 'docs/**'
+  push:
     branches:
       - main
 
