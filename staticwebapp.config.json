@@ -11,9 +11,7 @@
   },
   "routes": [],
   "globalHeaders": {
-    "Cache-Control": "no-cache, no-store, must-revalidate",
-    "Pragma": "no-cache",
-    "Expires": "0"
+    "Cache-Control": "public, max-age=600, must-revalidate"
   },
   "mimeTypes": {
     ".json": "application/json",
