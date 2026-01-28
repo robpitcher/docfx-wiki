@@ -31,6 +31,7 @@
     "globalMetadata": {
       "_appName": "Scrambled Legs & Achin'",
       "_appTitle": "Scrambled Legs & Achin'",
+      "_appLogoPath": "content/media/ar-intro.png",
       "_enableSearch": true,
       "pdf": false
     }
