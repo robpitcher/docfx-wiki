@@ -1,13 +1,41 @@
-# docfx-wiki
+# DocFX Wiki
 
 Lightweight wiki-style documentation site built with [DocFX](https://github.com/dotnet/docfx). Author content in Markdown, build a static site, and (optionally) publish to GitHub Pages.
 
-## Quick start
+## Publish
+
+This template supports two deployment options. Pick one:
+
+### Option 1: GitHub Pages
+
+- Workflow: `.github/workflows/publish-site.yml`
+- Deploys automatically on pushes to `main` that touch `docs/**`
+
+To enable GitHub Pages for a new repo created from this template:
+
+1. In GitHub, go to **Settings** → **Pages**.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+3. Push a change under `docs/` to `main` (or run the workflow via **Actions**).
+
+### Option 2: Azure Static Web Apps
+
+- Workflow: `.github/workflows/azure-swa-deploy.yml`
+- Requires a repo secret named `AZURE_STATIC_WEB_APPS_API_TOKEN`
+
+Quick deploy (automated script):
+
+```bash
+./deploy-azure.sh
+```
+
+Manual setup: see `DEPLOYMENT.md`.
+
+## Local Development
 
 ### Option A: GitHub Codespaces (recommended)
 
 1. Create a Codespace from this repo.
-2. Wait for the dev container to finish provisioning (it installs DocFX).
+2. Wait for the dev container to finish provisioning.
 3. Start the local site server:
 
 ```bash
@@ -57,51 +85,6 @@ docfx docs/docfx.json
 ```
 
 Output goes to `docs/_site/`.
-
-## Publish
-
-This repository supports two deployment options:
-
-### Option 1: GitHub Pages (Default)
-
-A GitHub Actions workflow automatically builds and deploys `docs/_site` to GitHub Pages on pushes to `main`.
-
-Workflow: `.github/workflows/publish-site.yml`
-
-### Option 2: Azure Static Web Apps
-
-Deploy to Azure Static Web Apps for a production-ready hosting solution with global CDN, custom domains, and automatic SSL certificates.
-
-#### Quick Deploy (Automated Script)
-
-```bash
-./deploy-azure.sh
-```
-
-This script will:
-- Create the Azure resource group
-- Deploy the Static Web App using Bicep
-- Retrieve the deployment token
-- Display next steps for GitHub setup
-
-#### Manual Deployment
-
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed step-by-step instructions.
-
-#### Customization
-
-- **Infrastructure**: Edit `infra/bicep.parameters.json` to customize:
-  - `staticWebAppName`: Your unique app name
-  - `location`: Azure region
-  - `sku`: Free or Standard tier
-  - `tags`: Resource organization tags
-
-- **Runtime Configuration**: Edit `staticwebapp.config.json` for:
-  - Navigation fallback rules
-  - Custom routes
-  - Headers and MIME types
-
-See [infra/README.md](infra/README.md) for infrastructure details.
 
 ## Learn more
 
