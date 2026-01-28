@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "staticWebAppName": {
+      "value": "docfx-wiki-swa"
+    },
+    "location": {
+      "value": "eastus2"
+    },
+    "sku": {
+      "value": "Free"
+    },
+    "tags": {
+      "value": {
+        "Environment": "Dev",
+        "Project": "DocFX Wiki"
+      }
+    }
+  }
+}

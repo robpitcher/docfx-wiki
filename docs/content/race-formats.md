@@ -8,6 +8,7 @@ Adventure races are categorized primarily by time, not distance. This page summa
 
 Here's what to expect:
 
+# [Sprint](#tab/Sprint)
 ### Sprint Races (2-8 hours)
 - **Ideal for**: First-timers and those new to adventure racing
 - **Format**: Usually completed during daylight hours
@@ -16,6 +17,7 @@ Here's what to expect:
 - **Gear**: Minimal mandatory gear list
 - **What to expect**: A fun, manageable introduction to the sport with forgiving navigation and moderate physical demands
 
+# [12-Hour](#tab/12-Hour)
 ### 12-Hour Races
 - **Ideal for**: Those ready for a bigger challenge after sprint races
 - **Format**: May extend into nighttime
@@ -23,6 +25,7 @@ Here's what to expect:
 - **Gear**: More comprehensive gear list, including headlamps
 - **What to expect**: Sustained physical effort, night navigation skills, and better time management needed
 
+# [24-Hour](#tab/24-Hour)
 ### 24-Hour Races
 - **Ideal for**: Experienced racers comfortable with extended endurance
 - **Format**: Racing through both day and night
@@ -30,12 +33,13 @@ Here's what to expect:
 - **Gear**: Full equipment kit for all conditions
 - **What to expect**: Sleep management decisions, cold-weather preparedness, and advanced navigation strategies
 
+# [Expedition](#tab/expedition)
 ### Expedition Races (Multi-day)
 - **Ideal for**: Elite-level teams
 - **Format**: Can last several days and cover hundreds of miles
 - **What to expect**: Ultimate test of endurance, navigation, and team dynamics
 
-<br/>
+---
 
 ## Checkpoint Navigation Styles
 

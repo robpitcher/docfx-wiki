@@ -1,0 +1,27 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/images/*",
+      "/content/*",
+      "/styles/*",
+      "/fonts/*",
+      "/*.{css,scss,js,png,jpg,jpeg,gif,svg,ico,woff,woff2,ttf,eot}"
+    ]
+  },
+  "routes": [],
+  "globalHeaders": {
+    "Cache-Control": "public, max-age=600, must-revalidate"
+  },
+  "mimeTypes": {
+    ".json": "application/json",
+    ".yml": "text/yaml",
+    ".yaml": "text/yaml"
+  },
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/index.html",
+      "statusCode": 404
+    }
+  }
+}

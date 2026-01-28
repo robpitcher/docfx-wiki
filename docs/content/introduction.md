@@ -6,8 +6,8 @@ Adventure racing is a thrilling multidisciplinary endurance sport that combines 
 
 Unlike traditional running or biking races where you follow a marked route, adventure racing requires you to plan your own path. Teams make strategic decisions about which checkpoints to visit and how to connect them, navigating through forests, across rivers, and over mountains while managing limited time and energy.
 
-> [!NOTE]
-> Most races allow only map-and-compass navigation, so practicing those skills early makes every other discipline smoother.
+> [!WARNING]
+> Adventure racing can be intense fun.
 
 
 <br/>
