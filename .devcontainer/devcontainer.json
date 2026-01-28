@@ -5,7 +5,8 @@
     "ghcr.io/devcontainers/features/git-lfs:1": {},
     "ghcr.io/devcontainers/features/node:1": {
       "version": "20"
-    }
+    },
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
   },
   "customizations": {
     "vscode": {
@@ -14,11 +15,12 @@
         "GitHub.copilot-chat",
         "ms-dotnettools.csharp",
         "ms-dotnettools.vscode-dotnet-runtime",
-        "ms-azuretools.vscode-azure-mcp-server"
+        "ms-azuretools.vscode-azure-mcp-server",
+        "ms-azuretools.vscode-bicep"
       ]
     }
   },
-  "postCreateCommand": "dotnet tool install -g docfx",
+  "postCreateCommand": "dotnet tool install -g docfx && az bicep install",
   "remoteEnv": {
     "PATH": "${containerEnv:PATH}:${containerEnv:HOME}/.dotnet/tools"
   }
