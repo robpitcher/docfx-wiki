@@ -1,10 +1,12 @@
 # DocFX Wiki
 
-Lightweight wiki-style documentation site built with [DocFX](https://github.com/dotnet/docfx). Author content in Markdown, build a static site, and (optionally) publish to GitHub Pages.
+A proof of concept (PoC) wiki-style documentation site built with [DocFX](https://github.com/dotnet/docfx). It demonstrates a simple, yet feature-rich wiki experience (navigation, search, static hosting) while keeping authoring lightweight with Markdown.
+
+The focus of this repo is to provide a reusable template so others can quickly start a wiki in their own environment and deploy it with minimal setup.
 
 ## Publish
 
-This template supports two deployment options. Pick one:
+Click the green `Use this template` button in the top right of this page and choose `create a new repository`, then pick one of the following deployment options:
 
 ### Option 1: GitHub Pages
 
@@ -22,11 +24,12 @@ To enable GitHub Pages for a new repo created from this template:
 - Workflow: `.github/workflows/azure-swa-deploy.yml`
 - Requires a repo secret named `AZURE_STATIC_WEB_APPS_API_TOKEN`
 
-Quick deploy (automated script):
+Quick deploy (automated script) via Codespaces:
 
 ```bash
 ./deploy-azure.sh
 ```
+or
 
 Manual setup: see `DEPLOYMENT.md`.
 
