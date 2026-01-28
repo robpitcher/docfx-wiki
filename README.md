@@ -11,24 +11,30 @@ Click the green `Use this template` button in the top right of this page and cho
 ### Option 1: GitHub Pages
 
 - Workflow: `.github/workflows/publish-site.yml`
-- Deploys automatically on pushes to `main` that touch `docs/**`
 
-To enable GitHub Pages for a new repo created from this template:
+Enable GitHub Pages for the new repo created from this template:
 
-1. In GitHub, go to **Settings** → **Pages**.
+1. In the repo, go to **Settings** → **Pages**.
 2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Push a change under `docs/` to `main` (or run the workflow via **Actions**).
+3. Deploy to GitHub Pages by pushing a change under `docs/` to `main` or run the workflow via **Actions**.
 
 ### Option 2: Azure Static Web Apps
 
 - Workflow: `.github/workflows/azure-swa-deploy.yml`
 - Requires a repo secret named `AZURE_STATIC_WEB_APPS_API_TOKEN`
 
-Quick deploy (automated script) via Codespaces:
+Quick deploy (Codespaces recommended):
 
+1. Edit the `infra/bicep.parameters.json` as desired.
+2. Authenticate to Azure using `az login` and select the desired subscription
+3. Run the deployment script:
 ```bash
 ./deploy-azure.sh
 ```
+4. Copy the deployment token from the Azure Static Web App in the Azure Portal.
+5. Create a repo secret in this repository named `AZURE_STATIC_WEB_APPS_API_TOKEN` with the deployment token as the value.
+6. Uncomment `.github/workflows/azure-swa-deploy.yml` and run the workflow via **Actions**. 
+
 or
 
 Manual setup: see `DEPLOYMENT.md`.
